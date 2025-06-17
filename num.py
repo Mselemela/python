@@ -7,3 +7,11 @@ print(type(num))
 num2 = 3.14
 
 print(type(num2))
+
+#variables
+
+my_variable = 10
+total_count = 0
+user = 'Mpho'
+
+print(user)
