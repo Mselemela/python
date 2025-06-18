@@ -15,3 +15,12 @@ total_count = 0
 user = 'Mpho'
 
 print(user)
+
+#exponent
+
+x = 10
+y = 2
+
+print(x-y)
+print(x+y)
+print(x*y)
