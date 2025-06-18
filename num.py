@@ -16,7 +16,7 @@ user = 'Mpho'
 
 print(user)
 
-#exponent
+#oparators
 
 x = 10
 y = 2
@@ -24,3 +24,14 @@ y = 2
 print(x-y)
 print(x+y)
 print(x*y)
+print(x/y)
+print(x%y)
+print(x**y)
+
+
+
+i = 10
+
+i += 2
+
+print(i)
