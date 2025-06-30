@@ -18,6 +18,13 @@ print(user)
 
 #oparators
 
+# addition (+)
+# subtraction (-)
+# multiplication (*)
+# division (/)
+# modulus (%)
+# exponent (**)
+
 x = 10
 y = 2
 
